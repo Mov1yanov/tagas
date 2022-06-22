@@ -1,0 +1,72 @@
+body {
+    padding: 40px 29%;
+}
+
+.podtitle {
+    margin-left: 80px;
+}
+
+.table {
+    display: flex;
+}
+
+.table p{
+    padding: 0;
+    margin: 0;
+}
+
+.bottom1 {
+    margin-right: 55px;
+}
+
+.bottom2 {
+    margin-right: 250px;
+}
+
+.imagewithtitle p{
+    margin: 0;
+    padding: 0;
+}
+
+.charts {
+    display: flex;
+}
+
+.dynamic {
+    font-weight: bold;
+}
+
+.tablepopulation h4{
+    margin: 15px 0 0 0;
+    padding: 0 0 0 75px;
+
+}
+
+.chart1 p{
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+}
+
+.chart2 p{
+    margin: 0;
+    padding: 0;
+}
+
+.chart3 p{
+    margin: 0;
+    padding: 0;
+}
+
+.chart1 {
+    margin-right: 90px;
+}
+
+.chart2 {
+    margin-right: 50px;
+}
+
+.headline {
+    display: flex;
+    justify-content: space-between;
+}
